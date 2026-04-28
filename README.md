@@ -41,35 +41,35 @@ Download or clone this repository
 
 ```bash
 git clone https://github.com/Sachin1219/smart-file-renamer-powershell.git
-Step 2:
+### Step 2:
 
 Open PowerShell in the folder
 
-Step 3:
+### Step 3:
 
 Run the script
 
 .\rename.ps1
-Step 4:
+### Step 4:
 
 Follow on-screen instructions
 
-📌 Example
+###📌 Example
 
-Before:
+### Before:
 
 IMG_1234.jpg
 video_final.mp4
 doc1.pdf
 
-After:
+### After:
 
 Project_1.jpg
 Project_2.jpg
 Project_1.mp4
 🎥 Video Demo
 
-Watch full explanation on YouTube:
+### Watch full explanation on YouTube:
 👉 [PASTE YOUR VIDEO LINK HERE]
 
 🧠 Why This Matters
