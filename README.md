@@ -72,7 +72,7 @@ Project_1.mp4
 🎥 Video Demo
 
 ### Watch full explanation on YouTube:
-👉 [PASTE YOUR VIDEO LINK HERE]
+👉 https://youtu.be/0ppZLuznyEU
 
 🧠 Why This Matters
 
